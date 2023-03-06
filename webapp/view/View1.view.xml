@@ -1,7 +1,7 @@
 <mvc:View controllerName="cicdapp.controller.View1"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
-    <Page id="page" title="{i18n>title}">
+    <Page id="page" title="Hello BTP Consultant, How you doing ?">
         <content />
     </Page>
 </mvc:View>
